@@ -9,6 +9,6 @@ INSERT INTO randX
 	)
     
 select * from fa;
-select * from test;
+select * from randX;
 
 commit;
