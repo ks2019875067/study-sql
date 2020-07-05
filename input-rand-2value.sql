@@ -8,7 +8,7 @@ INSERT INTO randX
       WHERE id<=1000
 	)
     
-select * from ff;
+select * from fa;
 select * from test;
 
 commit;
